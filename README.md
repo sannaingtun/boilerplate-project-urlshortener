@@ -1,2 +1,1 @@
-# boilerplate-project-urlshortener
-A boilerplate for a freeCodeCamp project.
+# [URL Shortener Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice)
